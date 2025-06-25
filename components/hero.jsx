@@ -27,13 +27,15 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <section className="w-full pt-36 md:pt-48 pb-10">
+    <section className="w-full pt-36 md:pt-36 pb-10">
       <div className="space-y-6 text-center">
         <div className="space-y-6 mx-auto">
-          <h1 className="text-5xl font-bold md:text-6xl lg:text-7xl xl:text-8xl gradient-title">
-            Your AI Career Coach for
+          <h1 className="text-5xl font-bold md:text-4xl lg:text-4xl xl:text-8xl gradient-title">
+            Unlock Growth and Clarity with Smart AI Coaching
             <br />
-            Professional Success
+            Personalized Intelligent Real Growth
+            <br />
+            Ready to Guide You with One Powerful AI
           </h1>
           <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
             Advance your career with personalized guidance, interview prep, and
@@ -52,9 +54,9 @@ const HeroSection = () => {
         <div className="hero-image-wrapper mt-5 md:mt-0">
           <div ref={imageRef} className="hero-image">
             <Image
-              src="/banner.jpeg"
+              src="/AI_banner2.avif"
               width={1280}
-              height={720}
+              height={700}
               alt="Dashboard Preview"
               className="rounded-lg shadow-2xl border mx-auto"
               priority
