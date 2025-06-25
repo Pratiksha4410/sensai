@@ -33,7 +33,7 @@ const HeroSection = () => {
           <h1 className="text-5xl font-bold md:text-4xl lg:text-4xl xl:text-8xl gradient-title">
             Unlock Growth and Clarity with Smart AI Coaching
             <br />
-            Personalized Intelligent Real Growth
+            Personalized Intelligent
             <br />
             Ready to Guide You with One Powerful AI
           </h1>
