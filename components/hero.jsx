@@ -30,12 +30,12 @@ const HeroSection = () => {
     <section className="w-full pt-36 md:pt-36 pb-10">
       <div className="space-y-6 text-center">
         <div className="space-y-6 mx-auto">
-          <h1 className="text-5xl font-bold md:text-4xl lg:text-4xl xl:text-8xl gradient-title">
+          <h1 className="text-4xl font-bold md:text-4xl lg:text-4xl xl:text-7xl gradient-title">
             Unlock Growth and Clarity with Smart AI Coaching
             <br />
             Personalized Intelligent
             <br />
-            Ready to Guide You with One Powerful AI
+            Ready to Guide You.👉 with One Powerful AI
           </h1>
           <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
             Advance your career with personalized guidance, interview prep, and
